@@ -45,3 +45,59 @@
 - **Containerization:** Docker, basic Kubernetes concepts.
 - **Data Handling:** SQL, JSON/XML formats.
 - **Communication:** Understanding HTTP, API principles (REST), and technical documentation.
+
+## Cybersec
+
+### Role
+
+<Cybersec>
+
+## Personal Development (Cybersecurity focus)
+
+### Skills I clearly lack
+<!-- 4-5 skills from roadmap.sh that seemed important to have -->
+- **Cloud Security:** Secure configuration of AWS/Azure, managing IAM roles, and securing cloud storage (S3).
+- **SIEM & Log Analysis:** Using tools like Splunk or ELK Stack to monitor logs and detect incidents.
+- **Application Security:** Understanding OWASP Top 10 vulnerabilities (SQLi, XSS) and how to fix them.
+- **Container Security:** Securing Docker and Kubernetes environments (scanning images, isolating pods).
+- **Compliance & Auditing:** Knowledge of standards like GDPR, ISO 27001, or NIST frameworks.
+
+### Skills I already have
+<!-- from roadmap.sh -->
+- **Basic Networking:** Understanding TCP/IP, DNS, HTTP/HTTPS, and IP addressing.
+- **Operating Systems:** Basic usage of Linux CLI (file management, permissions) and Windows.
+- **Version Control:** Git (cloning, committing, pushing).
+- **Basic Scripting:** Writing simple scripts in Python or Bash.
+- **SSH:** Connecting to remote servers securely.
+
+5 Research job postings
+
+    Find 5-7 job postings for this role on HH.ru or a similar job site.
+    For each posting, write:
+        role title;
+        link to the posting.
+        3–5 key skills/requirements they mention.
+
+6 Document job market snapshot
+
+In docs/roles-and-skills.md, in the ## Job market snapshot section, write:
+
+### Skills that appear in several postings
+<!-- 3-5 skills -->
+- ...
+
+### Skills specific to a single posting
+<!-- 2-5 skills -->
+- ...
+
+7 Personal reflection
+
+Important
+
+Write this section without an LLM. This is your opportunity to think and arrive at useful conclusions.
+
+In docs/roles-and-skills.md, in the ## Personal reflection section write 5–10 sentences reflecting on the following questions:
+
+    Which role did I choose and why?
+    How does my skillset compare to the market demands?
+    Which one or two key skills for this role would I like to develop this semester and why?
